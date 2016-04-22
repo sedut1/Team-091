@@ -1,3 +1,7 @@
 aaaay lmao
 
-whaaat CONFLICT
+<<<<<<< HEAD
+whaaat
+=======
+WTB programmer
+>>>>>>> origin/master
