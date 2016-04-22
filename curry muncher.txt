@@ -1,7 +1,7 @@
 aaaay lmao
 
-<<<<<<< HEAD
-whaaat
-=======
+
+okeh
+
 WTB programmer
->>>>>>> origin/master
+
